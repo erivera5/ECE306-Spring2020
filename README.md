@@ -22,6 +22,7 @@ The mechanism that detects a black electrical tape line consists of an IR detect
   <img src="https://i.imgur.com/t1lcPeH.jpg" width="504" height="378" />
 </p>
 
+## Demonstration
 
 The end result which shows this embedded system navigating through an IoT course can be viewed here:
 
