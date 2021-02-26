@@ -24,7 +24,7 @@ The mechanism that detects a black electrical tape line consists of an IR detect
 
 ## Demonstration
 
-The end result which shows this embedded system navigating through an IoT course can be viewed here:
+A demonstration which shows the vehicle approaching and navigating through a black electrical tape line can be viewed here:
 
-https://www.youtube.com/watch?v=MdTlc8b6d9U&t=4s
+https://youtu.be/MdTlc8b6d9U?t=840
 
