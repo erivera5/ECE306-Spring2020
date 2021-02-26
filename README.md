@@ -1,8 +1,14 @@
 # ECE 306: Introduction to Embedded Systems
 
-In the interest of preserving academic integrity, the code listings for this project may not be made available for public online viewing.
+In the interest of preserving the academic integrity of current or future ECE 306 students, the code listings for this project may not be made available for public online viewing. These files are contained in a private repository.
 
-The unlisted repository consists of C files that I worked on for a project throughout the Spring 2020 semester at NC State University. The goal of the project was to design a microcontroller-based remote controlled car using C programs to control input/output peripherals. The C files included in this repository includes code that would allow this embedded system to be operated via serial communication using ASCII characters transmitted by an external device. The code allows for the vehicle to move in forward, left, right, and reverse directions for a period of time specified by the user. An IR Emitter LED could also be enabled, which allowed for the ADC converter involved within this project to detect a black line and ultimately have the vehicle automatically traverse it.
+## Overview
+
+The goal of the project was to design a IOT-controllable RC car, and write software to control the vehicle over a Wi-Fi connection and autonomously follow a black electrical tape line. Software was written in C to control the input/output peripherals of the  MSP430 microcontroller. This software included code and algorithms that implemented a handful of other features, such as traveling in a specified shape, manually configuring the MSP430's UART baud rate, and even a menu system displayed on an LCD screen mounted on the vehicle. 
+
+(picture of the car here)
+
+
 
 The end result which shows this embedded system navigating through an IoT course can be viewed here:
 
