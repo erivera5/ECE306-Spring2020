@@ -9,6 +9,7 @@ The goal of the project was to design a IOT controllable RC car, and write softw
 <p float="left">
   <img src="https://i.imgur.com/DuABxr1.png" width="500" />
   <img src="https://i.imgur.com/3wimK3W.png" width="500" /> 
+  <img src="https://i.imgur.com/CLa24OK.png" width="500" /> 
 </p>
 
 
