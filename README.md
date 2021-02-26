@@ -7,9 +7,9 @@ In the interest of preserving the academic integrity of current or future ECE 30
 The goal of the project was to design a IOT controllable RC car, and write software to control the vehicle over a Wi-Fi connection and autonomously follow a black electrical tape line. Software was written in C, within the IAR Embedded Workbench IDE, to control the input/output peripherals of the TI-MSP430 microcontroller. This software included code and algorithms that implemented a handful of other features, such as traveling in a specified shape, manually configuring the MSP430's UART baud rate, and even a menu system displayed on an LCD screen mounted on the vehicle.
 
 <p float="left">
-  <img src="https://i.imgur.com/DuABxr1.png" width="500" />
-  <img src="https://i.imgur.com/3wimK3W.png" width="500" /> 
-  <img src="https://i.imgur.com/CLa24OK.png" width="500" /> 
+  <img src="https://i.imgur.com/DuABxr1.png" width="350" />
+  <img src="https://i.imgur.com/3wimK3W.png" width="350" /> 
+  <img src="https://i.imgur.com/CLa24OK.png" width="350" /> 
 </p>
 
 
