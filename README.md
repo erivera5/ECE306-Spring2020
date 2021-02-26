@@ -14,6 +14,13 @@ The goal of the project was to design a IOT controllable RC car, and write softw
 
 ## Black Line Detection
 
+The mechanism that detects a black electrical tape line consists of an IR detector/emitter board mounted underneath the chassis, and a C function that manipulates vehicle movement based on the amount of light being picked up by the IR sensors. Therefore, a higher ADC voltage being read by these sensors would indicate that the color black is being detected, which occurs when these sensors are driven directly over black electrical tape. Depending on whether either of these sensors detect an ADC value that strays away from the black line, the vehicle is programmed to correct itself and move back towards the line. 
+
+
+
+<p align="center">
+  <img src="https://i.imgur.com/t1lcPeH.jpg" width="519" height="446" />
+</p>
 
 
 The end result which shows this embedded system navigating through an IoT course can be viewed here:
