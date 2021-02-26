@@ -19,7 +19,7 @@ The mechanism that detects a black electrical tape line consists of an IR detect
 
 
 <p align="center">
-  <img src="https://i.imgur.com/t1lcPeH.jpg" width="519" height="446" />
+  <img src="https://i.imgur.com/t1lcPeH.jpg" width="504" height="378" />
 </p>
 
 
