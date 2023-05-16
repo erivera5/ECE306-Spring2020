@@ -12,6 +12,16 @@ Through designing this car, valuable skills were learned such as reading datashe
   <img src="https://i.imgur.com/EDarf19.png" width="519" height="446" />
 </p>
 
+## Hardware Summary
+
+The main components of the car consists of five (5) circuit boards, two (2) small electric motors that rotate two (2) toy front wheels independent of one another, a 4 AA battery pack serving as a power-source, a light-weight plastic board serving as a chassis, and a third unpowered wheel to support the back of the chassis.
+
+The circuit boards serve the following purposes:
+  * FRAM board: Contains the code that instructs the car on how to operate.
+  * Power board: Ensures that power from the battery pack is safely distributed to the rest of the system.
+  * H-Bridge: Controls motor function using two (2) N-FETs, in order to move the car forward or in reverse.
+  * Infrared board: Detects a black line by emitting infrared light and picking up light levels with two (2) sensors.
+  * Serial board: Utilizes UART peripheral to serially communicate with a controller via an IoT module.
 
 
 ## Black Line Detection
